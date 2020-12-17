@@ -88,7 +88,7 @@ public class BowlingScoreManagementSystem {
                 }	
 				//System.out.println("currentFrame:" + i + "  " + currentFrame.toString());
 				totalScore = totalScore+currentFrame.totalScore;
-				System.out.println("totalScore:" + i + "  " + totalScore);
+				System.out.println("totalScore: "+ totalScore);
 
 			}
 				else {
